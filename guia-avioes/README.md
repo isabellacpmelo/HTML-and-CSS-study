@@ -1,9 +1,7 @@
 # Guia sobre Aviões
-Projeto para treinar criação de sites utilizando boostrap.
+Projeto para treinar criação de sites utilizando bootstrap.
 
-Clique <a href="https://isabellacpmelo.github.io/guia-avioes/">aqui</a> para acessar o projeto.
-
-<a href="https://isabellacpmelo.github.io/guia-avioes"/> <img width="300" src="img/airplane-1.jpg">
+<img width="300" src="img/airplane-1.jpg">
   
 ## Ferramentas utilizadas:
 - HTML5
